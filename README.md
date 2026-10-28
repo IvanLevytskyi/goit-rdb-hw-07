@@ -102,8 +102,7 @@ View `v_t7_hw_taxi_features` залишає тільки рядки з повн�
 ### Google Colab (рекомендовано)
 
 1. Відкрийте <https://colab.research.google.com> → **File → Upload notebook** → `goit_rdb_hw_07.ipynb`.
-2. *(Опціонально)* Завантажте `truncated_taxi.parquet` у `/content` (іконка папки зліва → Upload). Він знадобиться, лише якщо CloudFront TLC недоступний.
-3. **Runtime → Run all.**
+2. **Runtime → Run all.**
 4. Збережіть notebook з output-ами: **File → Download → .ipynb**. Переконайтеся, що в **Edit → Notebook settings** не ввімкнено *Omit code cell output when saving this notebook*, інакше output-и `EXPLAIN` не збережуться.
 
 ### Важливо щодо порядку виконання
